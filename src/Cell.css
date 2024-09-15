@@ -1,0 +1,24 @@
+.Cell {
+    background-color: darkslateblue;
+    border-radius: 2%;
+    color: papayawhip;
+    display: inline-block;
+    width: 3em;
+    height: 2.25em;
+    padding-top: 0.75em;
+    text-align: center;
+    margin-right: 0.25em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.On {
+    background-color: papayawhip;
+    color: darkslateblue;
+}
+
+.Off {
+    background-color: darkslateblue;
+    color-color: papayawhip;
+}
